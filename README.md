@@ -9,17 +9,23 @@ UrbanNest Health Analytics currently lacks a standardized method for estimating 
 
 Goal: Develop a data-driven system to predict charges using objective customer characteristics.
 
-The project covers
+The project covers:
 . Data cleaning and preprocessing
+
 . Exploratory Data Analysis
+
 . Correlation Analysis
+
 . Visualizations using matplotlib and seaborn
 
 # Tools and Libraries
 
 . Google Colab
+
 . Python
+
 . Pandas
+
 . Matplotlib
 
 
