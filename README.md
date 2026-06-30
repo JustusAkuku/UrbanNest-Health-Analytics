@@ -10,6 +10,7 @@ UrbanNest Health Analytics currently lacks a standardized method for estimating 
 Goal: Develop a data-driven system to predict charges using objective customer characteristics.
 
 The project covers:
+
 . Data cleaning and preprocessing
 
 . Exploratory Data Analysis
@@ -28,5 +29,12 @@ The project covers:
 
 . Matplotlib
 
+
+# Insights
+
+- Smoking status, Age and Body Mass Index act as the dominant financial drivers in predicting total insurance claims.
+- Number of dependent children exerts a secondary, modest linear upward force on final healthcare premium pricing.
+- Sex and geographical location yield minimal statistical correlation.
+- Key Takeaway: Focus premium pricing on lifestyle decisions and physical health indices over local demographics.
 
 
