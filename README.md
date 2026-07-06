@@ -23,7 +23,10 @@ The project covers:
 - Matplotlib
 
 # Dataset
-File: insurance.csv (commonly used dataset for this task)
+File: **insurance.csv** in this repository
+
+You can download it here:[Download insurance.csv](https://raw.githubusercontent.com/JustusAkuku/CAPSTONE-PROJECT/main/insurance.csv)
+
 
 Features:
 
