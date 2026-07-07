@@ -20,7 +20,8 @@ The project covers:
 - Google Colab
 - Python
 - Pandas
-- Matplotlib
+- Matplotlib & Seaborn
+- Scikit learn
 
 # Dataset
 File: **insurance.csv** in this repository
@@ -45,13 +46,33 @@ region – Residential area (northeast, southeast, southwest, northwest)
 charges – Insurance cost (target variable)
 
 
-## :bulb: Key Insights
+## :bulb: KEY INSIGHTS
+*Smoking  status drives the insurance charges, accompanied by factors such as BMI and age*.
 
+**Scatterplot Analysis**
 
+***smoking is the dominant cost driver***
+
+Smokers (blue) cluster well above non-smokers (orange) across every age, with charges typically $15K-$50K+ versus $2K-$15K. The smoker premium far exceeds the effect of age alone.
+
+***Age has a positive but modest effect***
+
+The trend line rises steadily from roughly $27K at age 20 to about $42K ata age 65, confirming a positive age-cost relationship, though the slope is gradual relative to the spread within each group.
+
+***Distinct sub-bands suggest a third factor***
+
+The smoker group splits into two visible bands ($15K-$30K and $30K-$65K), pointing to an additional driver, the Body Mass Index (BMI).
+
+***BMI amplifies the smoker charges sharply***
+- **Strong Interaction effect**. Smoker charges climb steeply with BMI, rising from $20K at BMI 20 to over $50K at BMI 45, a near 2.5x escalation driven by the compounding of two risk factors.
+- **Flat non-smoker curve**. Non-smoker charges hold steady in the $5K-$12K band regardless of BMI, signaling a low-variance, high predictable risk pool.
+- **Obesity threshold matters**. Smoker charges accelerate noticeably past BMI 30, where most high-cost outliers ($55K- $65K) concetrate, making the obese-smoker segment the dominant cost driver.
 - Smoking status accounts for the highest medical insurance charges, Body Mass Index and age also act as the dominant financial drivers in predicting total insurance claims.
 - Number of dependent children exerts a secondary, modest linear upward force on final healthcare premium pricing.
 - Sex and geographical location yield minimal statistical correlation.
 - These findings align with real‑world expectations: smoking significantly increases health risks and costs, while BMI and age correlate with long‑term medical expenses.
-- Key Takeaway: Focus premium pricing on lifestyle decisions and physical health indices over local demographi
+- **Key Takeaway**: Focus premium pricing on lifestyle factors and physical health indices.
+
+
 
 
