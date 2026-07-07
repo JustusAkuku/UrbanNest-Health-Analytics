@@ -28,7 +28,7 @@ The project covers:
 - [Download insurance.csv](https://github.com/JustusAkuku/CAPSTONE-PROJECT/raw/main/insurance.csv)
 
 # How to Run
-[Open in Google Colab](https://colab.research.google.com/github/JustusAkuku/CAPSTONE-PROJECT/blob/main/CAPSTONE PROJECT GROUP 13.ipynb)
+[Open in Google Colab](https://colab.research.google.com/github/JustusAkuku/CAPSTONE-PROJECT/blob/main/CAPSTONE_PROJECT_GROUP_13.ipynb)
 
 
 
