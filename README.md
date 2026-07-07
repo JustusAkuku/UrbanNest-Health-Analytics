@@ -23,10 +23,13 @@ The project covers:
 - Matplotlib & Seaborn
 - Scikit learn
 
-# Dataset
-File: **insurance.csv** in this repository
+# Dataset and how to run this project
+- File: **insurance.csv** in this repository
 
-You can download it here:[Download insurance.csv](https://raw.githubusercontent.com/JustusAkuku/CAPSTONE-PROJECT/main/insurance.csv)
+- You can download it here:[Download insurance.csv](https://raw.githubusercontent.com/JustusAkuku/CAPSTONE-PROJECT/main/insurance.csv)
+  
+
+
 
 
 Features:
