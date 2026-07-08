@@ -1,7 +1,7 @@
 
 # Urban Health Analytics: Medical Insurance Charges Prediction
 
-For this project, I worked as a Data Scientists for a healthcare-focused analytics consulting management. The company works with insurance providers to help them better understand how patient characteristics influence insurance costs.
+For this project, I worked as a Data Scientist for a healthcare-focused analytics consulting management. The company works with insurance providers to help them better understand how patient characteristics influence insurance costs.
 In this project, I built a linear regression model that predicts insurance charges based on patient attributes, the **insurance.csv** dataset in this reppository was used for this project. The dataset contained the following information about patients: age, gender, BMI, number of children, smoking status, region, and insurance charges. 
 
 # Project Overview
