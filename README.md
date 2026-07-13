@@ -37,7 +37,7 @@ The project covers:
 - *charges* – Insurance cost (target variable)
 
 # How to run this project
-[Open in Google Colab](https://colab.research.google.com/github/JustusAkuku/CAPSTONE-PROJECT/blob/main/UrbanNest_Health_Analytics.ipynb)
+[Open in Google Colab](https://colab.research.google.com/github/JustusAkuku/UrbanNest-Health-Analytics/blob/main/UrbanNest_Health_Analytics.ipynb)
 
 ## :bulb: KEY INSIGHTS
 *Smoking  status drives the insurance charges, accompanied by factors such as BMI and age*.
